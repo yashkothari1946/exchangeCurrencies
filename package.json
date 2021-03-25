@@ -1,0 +1,18 @@
+{
+  "name": "samstudybuddy",
+  "version": "1.0.0",
+  "description": "Sam Study Buddy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Panoptic Analytics",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "redis": "^3.0.2"
+  }
+}

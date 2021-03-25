@@ -1,0 +1,9 @@
+# MEAN.js app and assets
+# ======================
+config/*
+
+
+# Node and related ecosystem
+# ==========================
+node_modules/
+public/uploads
